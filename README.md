@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+My name is Erik and I'm a student who hopes to continue improving his skills and knowledge in diverse areas.
+I'm currently learning Data Analysis, focusing on Python and SQL skills.
+I'm looking to continue learning and collaborate to this community! 
 <!--
 **BlazeCraft07/BlazeCraft07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
